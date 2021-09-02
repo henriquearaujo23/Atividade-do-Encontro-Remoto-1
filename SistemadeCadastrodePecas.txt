@@ -1,0 +1,7 @@
+Sistema de Cadastro de Peças
+
+OK - Permitir o cadastro da peça somente se ela pesar mais de 100g.
+
+OK - Número de peças na lista é de 10 unidades, caso tenha 10 ou mais peças, o usuário receerá a mensagem que lista de peças já está cheia.
+
+OK - Validar se o nome da peça possui mais de 3 caracteres.
